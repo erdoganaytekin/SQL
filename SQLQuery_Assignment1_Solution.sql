@@ -1,6 +1,6 @@
 -- 1. How many customers are in each city? Your solution should include the city name and the number of customers sorted from highest to lowest.
 
-SELECT city, COUNT(customer_id) AS num_customer      
+SELECT city, COUNT(customer_id) AS num_customer
 FROM sale.customer
 GROUP BY city
 ORDER BY num_customer DESC;
