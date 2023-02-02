@@ -1,4 +1,4 @@
-/* Do the following exercises, using the data model. 
+/* Do the following exercises, using the data model.
 
      a) Create a database named "Manufacturer"
 
